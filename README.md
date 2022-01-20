@@ -1,4 +1,4 @@
-## Fully decentralized application published on IPFS
+## Decentralized platform for video publishing
 
 ## 🔧 Project Diagram:
-![Project Diagram/Workflow](https://i.gyazo.com/827138d2e256cffbe00e34a15afa39e2.png)
+![Project Diagram/Workflow](https://i.gyazo.com/9f03d7bc067d1013966b0cb901517567.png)

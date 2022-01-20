@@ -39,7 +39,6 @@ class Main extends Component {
                     {/* Return Side Videos...*/}
                   </div>
               </div>
-          </div>
         </div>
       </div>
     );
