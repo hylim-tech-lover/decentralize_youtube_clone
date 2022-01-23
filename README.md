@@ -1,4 +1,4 @@
-## Decentralized platform for video publishing
+## Decentralized platform for video publishing (youtube clone) 
 
-## 🔧 Project Diagram:
-![Project Diagram/Workflow](https://i.gyazo.com/9f03d7bc067d1013966b0cb901517567.png)
+## 🔧 Project High Level Architecture v1:
+![Project Diagram/Workflow](https://gyazo.com/4d20b540a169f201758ed576805d9739)
