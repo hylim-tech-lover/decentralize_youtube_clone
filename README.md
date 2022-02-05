@@ -3,8 +3,13 @@
 ### Summary:
 It is a decentralized application (DApp) that emulate the functionality of youtube for authenticated user to upload and view own videos despite not having own libraries of other user video. 
 
+## Project High Level Architecture v2:
 
-## 🔧 Project High Level Architecture v1:
+### Demo
+
+<a target="_blank" href="https://hylim-tech-lover.github.io/decentralize_youtube_clone/">Live Demo</a>
+
+## Project High Level Architecture v1:
 ![Project Diagram/Workflow](https://i.gyazo.com/6ff57a991440590af1c2d82c1b1f4722.png)
 
 
